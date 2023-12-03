@@ -2,8 +2,8 @@ Stefan Kepinski – 101356431
 
 I made new Git repositories with new names reflecting backend and front end. I still have the origin assignment 1 repo with commit history. 
 I had to change the root folder names to front end and back end and copy all my data to them, as VS code would not let me edit the root folder name. 
-I tried to push my new changes to older repo from the new folder and it would let me from my new git init setup, so I force pushed all my files to the old repo. 
-I did not realize this would overwrite all my commit history. 
+I tried to push my new changes to older repo from the new folder and it would let me from my new git init setup, so I force pushed all my files to the old repo 
+for assignment 2. I did not realize this would overwrite all my commit history. 
 I ended up just starting a fresh repo to avoid further destruction of the old one, which is why there is only the commits of the final product. 
 
 Home
